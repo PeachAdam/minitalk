@@ -1,4 +1,4 @@
-# 42-minitalk
+# 42 minitalk
 
 Score: 115/100
 
